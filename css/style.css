@@ -1,0 +1,89 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	padding: 70px;
+	background-color: rgb(90, 206, 252);
+}
+.blocklevel{
+	color: rgb(56, 56, 56);
+	background-color: wheat;
+	width: 78%;
+	margin: auto;
+}
+th{
+	padding: 20px;
+	font-weight: bold;
+}
+td{
+	padding: 10px 20px;
+}
+h2{
+	font-size: 25px;
+}
+h3{
+	font-size: 26px;
+}
+header{
+	background-color: tomato;
+	color: white;
+	width: 85%;
+	text-align: center;
+}
+footer{
+	color: white;
+	background-color: royalblue;
+	width: 85%;
+	text-align: center;
+}
+a{
+	font-size: 22px;
+	color: rgb(19, 119, 19) ;
+}
+video{
+	width: 40%;
+}
+ul, ol{
+	padding: 15px;
+}
+.a{
+	width: 20%;
+	background-color: green;
+}
+.b{
+	width: 20%;
+	background-color: red;
+}
+.others{
+	color: white;
+	background-color: rgb(241, 68, 68);
+	margin: 60px auto;
+	width: 60%;
+	padding: 50px;
+}
+.inline{
+	width: 78%;
+	color: rgb(37, 37, 37);
+	background-color: white;
+	margin: 60px auto;
+}
+img{
+	width: 20%;
+}
+button{
+	background-color: rgb(51, 150, 153);
+	padding: 8px 30px;
+	font-size: 22px;
+    border: none;
+	margin-left: 20px;
+	border-radius: 3px;
+}
+button a{
+	color: white;
+}
+span{
+	color: white;
+	font-size: 20px;
+	background-color: rgb(255, 81, 81);
+}
